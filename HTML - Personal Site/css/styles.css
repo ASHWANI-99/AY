@@ -1,0 +1,46 @@
+ /* TAG SELECTOR*/
+
+body{
+    background-color:#808080;  
+    /* color:blue; */
+    /* background-color: violet; */
+}
+hr{
+    background-color: #8d9496;
+    border-top:5px;
+    border-style:dotted none none none;
+    width: 5%;
+    color:rgb(177, 173, 173);
+    
+}
+h1{
+    color: aquamarine;
+}
+h3{
+    color: blueviolet;
+}
+img{
+
+    height: 245px;
+    width: 245px ;
+}
+/* CLASS SELECTOR */
+.imagg{
+    background-color: blue;
+}
+
+
+
+.bomb{
+    background-color: yellow;
+}
+.circular{
+    border-radius: 150%;
+}
+/* ID SELECTORS */
+#whatisit{
+    color:yellow;
+}
+#again{
+    color:black
+}
